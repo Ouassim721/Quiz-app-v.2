@@ -1,0 +1,37 @@
+/* Container Styles */
+.homepage-container {
+  text-align: center;
+  margin-top: 50px;
+  background-color: #f7f7f7;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Header Styling */
+.homepage-container h1 {
+  font-size: 36px;
+  color: #2c3e50;
+}
+
+/* Paragraph Styling */
+.homepage-container p {
+  font-size: 18px;
+  color: #34495e;
+}
+
+/* Button Styling */
+.homepage-button {
+  padding: 12px 24px;
+  font-size: 18px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.homepage-button:hover {
+  background-color: #2980b9;
+}

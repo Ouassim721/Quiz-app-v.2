@@ -1,0 +1,41 @@
+/* Container for Results Page */
+.results-page-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  /* Styling for ResultCard */
+  .result-card {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 20px auto;
+  }
+  
+  /* Score text styling */
+  .score-text {
+    font-size: 32px;
+    font-weight: bold;
+    color: #3498db;
+  }
+  
+  .result-feedback {
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: 600;
+  }
+  
+  .good-job {
+    color: green;
+  }
+  
+  .keep-going {
+    color: yellow;
+  }
+  
+  .try-again {
+    color: red;
+  }
+  
